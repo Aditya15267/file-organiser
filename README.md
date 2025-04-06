@@ -6,7 +6,7 @@ A handy Python script to automatically organise your files into categorised fold
 
 ## Categories Covered
 
-- Images: ```.jpg```, ```.jpef```, ```.png```, ```.gif```
+- Images: ```.jpg```, ```.jpeg```, ```.png```, ```.gif```
 - Documents: ```.pdf```, ```.docx```, ```.txt```, ```.xlsx```
 - Videos: ```.mp4```, ```.avi```, ```.mov```
 - Audio: ```.mp3```, ```.wav```
